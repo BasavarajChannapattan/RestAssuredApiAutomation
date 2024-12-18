@@ -1,4 +1,4 @@
-package Maven_Project;
+package POJO_LIbrary;
 
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
