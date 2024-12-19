@@ -5,7 +5,7 @@ import io.restassured.response.Response;
 
 import static io.restassured.RestAssured.given;
 
-public class class1 {
+public class POJO_GetComplex_Simple {
 
     public static void main(String[] args) {
 
